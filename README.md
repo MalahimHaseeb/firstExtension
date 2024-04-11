@@ -16,8 +16,7 @@ The `manifest.json` file contains the metadata and configuration for the extensi
         "default_popup" : "index.html"
     }
 }
-
-
+```
 ### Explanation of manifest.json
 
 - `manifest_version`: Specifies the version of the manifest file. This field indicates which version of the manifest specification the file conforms to. For example, `"manifest_version": 3` indicates that the manifest file adheres to version 3 of the specification.
