@@ -30,3 +30,6 @@ The `manifest.json` file contains the metadata and configuration for the extensi
 - `action`: Specifies the action to be taken when the extension icon is clicked. This field defines the behavior of your extension's icon in the browser's toolbar or menu.
 
   - `default_popup`: Specifies the HTML file to be opened as a popup when the extension icon is clicked. This field points to the HTML file that contains the content to be displayed in the popup window when the user clicks on the extension icon.
+
+
+Feel free to copy and paste this content into your README file!
