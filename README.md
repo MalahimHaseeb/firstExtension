@@ -17,6 +17,7 @@ The `manifest.json` file contains the metadata and configuration for the extensi
     }
 }
 
+
 ### Explanation of manifest.json
 
 - `manifest_version`: Specifies the version of the manifest file. This field indicates which version of the manifest specification the file conforms to. For example, `"manifest_version": 3` indicates that the manifest file adheres to version 3 of the specification.
@@ -30,4 +31,3 @@ The `manifest.json` file contains the metadata and configuration for the extensi
 - `action`: Specifies the action to be taken when the extension icon is clicked. This field defines the behavior of your extension's icon in the browser's toolbar or menu.
 
   - `default_popup`: Specifies the HTML file to be opened as a popup when the extension icon is clicked. This field points to the HTML file that contains the content to be displayed in the popup window when the user clicks on the extension icon.
-
